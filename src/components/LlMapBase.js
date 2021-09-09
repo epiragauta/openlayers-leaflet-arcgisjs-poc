@@ -7,7 +7,7 @@ import "leaflet/dist/leaflet.css";
 import icon from "leaflet/dist/images/marker-icon.png";
 import iconShadow from "leaflet/dist/images/marker-shadow.png";
 
-const apiKey = 'AAPKc425cb71a25f42ff8fcd7189f096fe68lWrGdnyLYwh3MBvAK2Dh9HRl9OKBS9jtkJVPSDBSa5s3Q-Icse0-pRCdtI4W8D25';
+const apiKey = 'USE_YOUR_API_KEY';
 const basemapId = "ArcGIS:Streets";
 const center = [4.0, -74.0];
 const zoom = 6;

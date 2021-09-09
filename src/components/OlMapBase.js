@@ -10,7 +10,7 @@ import '../css/map.css';
 
 const EPSG_3857 = 'EPSG:3857';
 const EPSG_4326 = 'EPSG:4326';
-const apiKey = 'AAPKc425cb71a25f42ff8fcd7189f096fe68lWrGdnyLYwh3MBvAK2Dh9HRl9OKBS9jtkJVPSDBSa5s3Q-Icse0-pRCdtI4W8D25';
+const apiKey = 'USE_YOUR_API_KEY';
 const basemapId = "ArcGIS:Streets";
 const center = [-74.0, 4.0];
 const basemapURL = "https://basemaps-api.arcgis.com/arcgis/rest/services/styles/" + basemapId + "?type=style&token=" + apiKey;
