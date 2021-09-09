@@ -16,7 +16,7 @@ const zoom = 5;
 const AjsMapBase = () => {
   
   const mapDiv = useRef(null);
-  esriConfig.apiKey = "AAPKc425cb71a25f42ff8fcd7189f096fe68lWrGdnyLYwh3MBvAK2Dh9HRl9OKBS9jtkJVPSDBSa5s3Q-Icse0-pRCdtI4W8D25";
+  esriConfig.apiKey = "USE_YOUR_API_KEY";
   
   useEffect(() => {
     if (mapDiv.current) {
