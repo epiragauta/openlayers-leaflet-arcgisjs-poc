@@ -6,6 +6,11 @@ React Project Base Created for OpenLayers - Leaflet and ArcGIS JS Library
 
 In the project directory, you can run:
 
+
+## Use your own API Key for ESRI Base Maps
+
+Replace: USE_YOUR_API_KEY
+
 ### `yarn install`
 
 Installs all necessary libraries.
