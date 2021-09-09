@@ -1,9 +1,12 @@
-import MapBase from "./components/MapBase";
+import OlMapBase from "./components/OlMapBase";
+import LlMapBase from "./components/LlMapBase";
+import AjsMapBase from "./components/AjsMapBase";
+
 const App = () => {
   return (
-    <>
-      <MapBase />
-    </>
+    
+    <LlMapBase />
+    
   );
 };
 

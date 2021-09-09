@@ -1,6 +1,6 @@
-# React App with OpenLayers
+# Proof of Concept with OpenLayers, Leaflet and ArcGIS Javascript
 
-React Project Base Created for OpenLayers Library
+React Project Base Created for OpenLayers - Leaflet and ArcGIS JS Library
 
 ## Available Scripts
 
@@ -14,3 +14,5 @@ Installs all necessary libraries.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+2021
